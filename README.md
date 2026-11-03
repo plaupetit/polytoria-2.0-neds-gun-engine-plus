@@ -54,7 +54,7 @@ Work in progress. Debug traces (`DEBUG_WEAPON_KINDS`) are still on in the grenad
 | Minigun | Working: spin-up, then continuous fire |
 | Knife | Works, but you have to aim exactly at the player or NPC; it is not easy or obvious to use yet |
 | Sniper | Fires; no scope zoom or sniper tunnel vision yet |
-| Grenade | Hold-to-charge throw with arc preview; not fully tested yet |
+| Grenade | Tested and working: hold-to-charge throw with arc preview; still needs polish |
 | Test turret | Tracks and hits; still being tuned |
 
 ## Planned
