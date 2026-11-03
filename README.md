@@ -18,12 +18,29 @@ This repository is an independent continuation for Polytoria 2.0. I directed and
 was written with AI and MCP tools. I defined the goals, tested the behaviour and validated the
 results.
 
-## License
+## Why I share it here
 
-- My changes and additions are under the MIT license (see `LICENSE`). That covers the 2.0
-  port, the Sniper, Minigun, Grenade, Knife and turret, and the later fixes.
-- The parts that come from Ned's original are not mine to relicense. They stay Ned's, are included
-  here with credit because the site copy is broken, and will be removed if Ned asks.
+Ned published the original as an **uncopylocked** place on Polytoria: anyone was meant to be able
+to copy it, open it and use it. Someone asked me for access to this 2.0 version, and I could not
+give it to them through the official Polytoria site, because copying a 2.0 world is broken there
+at the moment. This repository does the job the site's copy button is supposed to do. Nothing more.
+
+## About the license
+
+I am not using the MIT license to claim Ned's work as mine. Ned made the original system, and the
+credit above stays his.
+
+The reason for a license is practical. On GitHub, a repository with no license counts as "all
+rights reserved" by default, which would make this world less open here than it is on Polytoria,
+where it was uncopylocked. MIT keeps it the way it was meant to be: copyable and usable by everyone.
+
+To be precise about what is what:
+
+- My changes and additions are under the MIT license (see `LICENSE`): the 2.0 port, the Sniper,
+  Minigun, Grenade, Knife and turret, and the fixes after that.
+- Ned's original parts are shared here in the same open spirit as his uncopylocked place. I cannot
+  change their author: they remain Ned's work.
+- If Ned wants it credited differently, licensed differently or taken down, I will do it.
 
 ## Open it
 
