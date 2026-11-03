@@ -42,7 +42,12 @@ results.
 | Grenade | Hold right click to charge (arc preview), release to throw |
 | Knife | Left click slash |
 
-The test turret fires at players who enter the red disc, except during the spawn shield.
+## Test turret
+
+The world also has a test turret, there to test damage and the spawn shield without a second
+player. It stands on a red disc (radius 25 studs) with a "TEST TURRET" label. When a player enters
+the disc and is in line of sight, the turret turns toward them, aims at the torso and fires
+2 shots per second for 10 damage each. It never fires at a player who still has the spawn shield.
 
 ## Status
 
