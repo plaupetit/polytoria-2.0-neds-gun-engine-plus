@@ -48,6 +48,21 @@ The test turret fires at players who enter the red disc, except during the spawn
 
 Work in progress. Debug traces (`DEBUG_WEAPON_KINDS`) are still on in the grenade and knife scripts.
 
+| Weapon | State |
+|---|---|
+| Rifle, Pistol, Shotgun | Working |
+| Minigun | Working: spin-up, then continuous fire |
+| Knife | Works, but you have to aim exactly at the player or NPC; it is not easy or obvious to use yet |
+| Sniper | Fires; no scope zoom or sniper tunnel vision yet |
+| Grenade | Hold-to-charge throw with arc preview; not fully tested yet |
+| Test turret | Tracks and hits; still being tuned |
+
+## Planned
+
+- Sniper: scope zoom with a tunnel-vision overlay.
+- A custom cursor for each firearm type.
+- An easier knife: wider, clearer hit area and visible feedback.
+
 ---
 
 **FR** : monde Polytoria 2.0 publié ici parce que la copie de monde 2.0 est cassée sur le site.
