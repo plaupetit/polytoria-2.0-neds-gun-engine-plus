@@ -1,0 +1,6 @@
+# Creator-generated data: backups and API definitions
+.poly/
+# Local MCP bridge runtime (holds session state; never publish)
+.polytoria-mcp/
+# Local editor tooling, not part of the world
+addons/
