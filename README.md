@@ -42,6 +42,21 @@ To be precise about what is what:
   change their author: they remain Ned's work.
 - If Ned wants it credited differently, licensed differently or taken down, I will do it.
 
+### Using it in your own Polytoria world
+
+The MIT license is here as a guarantee that the project is open source in the GitHub context.
+
+On Polytoria itself, I will not enforce it. If you use this system in your own world and publish
+that world on the Polytoria site, you do not have to include the MIT notice or credit me.
+
+In good conscience, I still recommend crediting Ned, because the original system is his. That is
+a recommendation, not an obligation.
+
+**FR** : la licence MIT garantit l'open source dans le contexte de GitHub. Je ne l'appliquerai pas
+sur Polytoria : si vous utilisez ce système pour votre monde publié sur le site de Polytoria, vous
+n'avez pas d'obligation envers moi. Je recommande quand même, en bonne conscience, de créditer Ned.
+C'est un conseil, pas une obligation.
+
 ## Open it
 
 1. Clone or download this repository.
